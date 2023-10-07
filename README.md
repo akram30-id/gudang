@@ -5,5 +5,5 @@ Aplikasi manajemen inventaris berbasis web dengan menggunakan framework CodeIgni
 ## Tampilan Dashboard
 
 <p align="center">
-  <img src="/assets/images/login.jpg" alt="Dashboard Screenshot">
+  <img src="/assets/images/auth/login.jpg" alt="Dashboard Screenshot">
 </p>
